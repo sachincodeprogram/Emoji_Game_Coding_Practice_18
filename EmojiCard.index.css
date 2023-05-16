@@ -7,7 +7,7 @@
 }
 @media screen and (min-width: 992px) {
   .emoji-item {
-    width: 24px;
+    width: 24%;
   }
 }
 .emoji-btn {
